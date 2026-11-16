@@ -28,7 +28,7 @@ The skill fixes each one and spends tokens only where it matters:
 ## Install
 
 ```bash
-npx skills add RabbitDesigns22/full-power
+npx skills@1.8.1 add https://github.com/RabbitDesigns22/full-power/tree/3d3916102b6e6503424761f47d314ab03807e8b5
 ```
 
 Or copy `skills/full-power/` into `~/.claude/skills/`.
@@ -43,7 +43,7 @@ Or copy `skills/full-power/` into `~/.claude/skills/`.
 
 **Máxima potencia.** Una skill no hace más inteligente al modelo, pero sí evita que desperdicie lo que tiene. Divide la tarea por riesgo: lo fácil queda barato, el paso difícil va al modelo más fuerte con esfuerzo alto, y lo que no tiene vuelta atrás espera una revisión. Cuando una sola respuesta no basta, hace 2 o 3 intentos independientes y un juez escoge. Antes de decir "listo", un revisor que no vio el trabajo busca el error. Las fechas, los precios y las cuentas salen de herramientas, nunca de memoria. Cada error queda anotado para la próxima vez.
 
-Instalar: `npx skills add RabbitDesigns22/full-power`
+Instalar: `npx skills@1.8.1 add https://github.com/RabbitDesigns22/full-power/tree/3d3916102b6e6503424761f47d314ab03807e8b5`
 
 If it saved you a redo, a star helps other people find it.
 
